@@ -1,0 +1,43 @@
+<h1>Hello! My name is Charity! <br/><a href="https://www.linkedin.com/in/charity-morris-6017622aa/">Cybersecurity Specialist</a>, <a href="https://github.com/1stAri">Programmer</a>, & <a href="https://medium.com/@cmorri23548">Writer</a></h1>
+
+<h2>About me:</h2>
+I’m a creative force in cybersecurity with an out-of-the-box approach to problem-solving. I’m committed to continuous learning and staying ahead in the forever changing cybersecurity landscape. A blue teamer with the mindset of a red teamer.
+<br /> <br />
+Currently, I am looking for SOC Analyst, Security Engineering, and Cloud Security roles. My goal is to eventually specialize in firewall configurations and management or become a third tier SOC Threat Hunter!
+<br /> <br />
+
+__The Top 5 Favorite of my Skills__
+
+- Japanese
+- Creative Thinking
+- Azure Usage
+- Ticketing System Usage
+- Analytical Ability
+
+<h2>Homelabs & Projects:</h2>
+
+- <b>Python</b>
+  - [In Progress...]()
+- <b>Microsoft Azure</b>
+  - [In Progress...]()
+  
+<h2> Connect with me:</h2>
+
+LinkedIn: https://linkedin.com/in/joshmadakor
+
+Medium: https://medium.com/@cmorri23548
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
