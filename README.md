@@ -19,7 +19,7 @@ __The Top 5 Favorite of my Skills__
 - <b>Python</b>
   - [In Progress...]()
 - <b>Microsoft Azure</b>
-  - [In Progress...]()
+  - [Azure SOC](https://github.com/1stAri/Azure-SOC/blob/main/README.md)
   
 <h2> Connect with me:</h2>
 
