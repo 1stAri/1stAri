@@ -23,7 +23,7 @@ __The Top 5 Favorite of my Skills__
   - [Discord Safe Space](https://github.com/1stAri/Discord-Safe-Space/tree/main)
 <h2> Connect with me:</h2>
 
-LinkedIn: https://linkedin.com/in/joshmadakor
+LinkedIn: linkedin.com/in/charity-morris-6017622aa
 
 Medium: https://medium.com/@cmorri23548
 
