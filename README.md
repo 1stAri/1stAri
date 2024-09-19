@@ -18,9 +18,9 @@ __The Top 5 Favorite of my Skills__
 
 - <b>Python</b>
   - [In Progress...]()
-- <b>Microsoft Azure</b>
+- <b>Cyber Security</b>
   - [Azure SOC](https://github.com/1stAri/Azure-SOC/blob/main/README.md)
-  
+  - [Discord Safe Space](https://github.com/1stAri/Discord-Safe-Space/tree/main)
 <h2> Connect with me:</h2>
 
 LinkedIn: https://linkedin.com/in/joshmadakor
